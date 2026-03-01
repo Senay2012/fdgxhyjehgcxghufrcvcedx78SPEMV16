@@ -1,0 +1,9 @@
+{
+  "interval_sec": 900,
+  "msg_idx": -1,
+  "delay": 0.3,
+  "auto_del": 0,
+  "shuffle": true,
+  "emoji": false,
+  "schedule": []
+}

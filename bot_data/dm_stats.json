@@ -1,0 +1,16 @@
+{
+  "sent": 9,
+  "fail": 1,
+  "last_run": "19.02 21:26",
+  "log": [
+    {
+      "d": "19.02 21:26",
+      "sent": 9,
+      "fail": 1,
+      "skipped": 0,
+      "chats": 1,
+      "top_n": 10,
+      "total_in_base": 40
+    }
+  ]
+}

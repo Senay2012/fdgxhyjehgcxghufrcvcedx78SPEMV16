@@ -1,0 +1,10 @@
+{
+  "text": "Привет",
+  "chats": [
+    "1980987025"
+  ],
+  "top_n": 10,
+  "scan_limit": 500,
+  "delay": 2.0,
+  "running": false
+}
